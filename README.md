@@ -3,7 +3,8 @@ Final Year Project (BSc (Hons) Computer Science)
 
 ### Description
 Controlling electronic switches (such as light) virtually from smartphone with interactive AR switches.
-In this project, a 2-story house was modeled to be used as a prove of concept for this project. There are total of 7 rooms with 7 light hook up to IoT Controller, ESP8266 as a web server. This project is also design to be as expandable as possible, meaning the number of devices connected to the internet is able to expand.
+In this project, a 2-story house was modeled to be used as a prove of concept for this project. There are total of 7 rooms with 7 light hook up to IoT Controller, ESP8266 as a web server. User able to select specific floor of the house to select the specific room to toggle the virtual switch to trigger the actual electronic.
+This project is also design to be as expandable as possible, meaning the number of devices connected to the internet is able to expand.
 
 #### Features
 - Local Area Network Setup
@@ -29,5 +30,3 @@ Vuforia Engine was use in this project.
 ### Some screenshot preview of this project
 ![3D view of the house use](https://github.com/TMCheah/Virtual-Switch-Controlling-IoT-Devices-Using-AR/blob/main/ProjectScreenshot/obj/House1.png)
 ![Web server landing page](https://github.com/TMCheah/Virtual-Switch-Controlling-IoT-Devices-Using-AR/blob/main/Screenshot/landing%20page.png)
-
-will upadte this readme file on more details soon
