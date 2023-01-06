@@ -30,3 +30,6 @@ Vuforia Engine was use in this project.
 ### Some screenshot preview of this project
 ![3D view of the house use](https://github.com/TMCheah/Virtual-Switch-Controlling-IoT-Devices-Using-AR/blob/main/ProjectScreenshot/obj/House1.png)
 ![Web server landing page](https://github.com/TMCheah/Virtual-Switch-Controlling-IoT-Devices-Using-AR/blob/main/Screenshot/landing%20page.png)
+
+### Video Demo
+https://drive.google.com/file/d/1UlpIOXssT_Xx49pebvtX2wz1FHbVLv9b/view
